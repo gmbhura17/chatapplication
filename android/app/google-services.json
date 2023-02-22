@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "673932666461",
+    "project_id": "chateapp-c46c9",
+    "storage_bucket": "chateapp-c46c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673932666461:android:bd83c9b93f2473504ccfb4",
+        "android_client_info": {
+          "package_name": "com.karon.example.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673932666461-s6n97gs1cj7uaj1nh3jhb800mj4423n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karon.example.chatapplication",
+            "certificate_hash": "af4dd52ae5af77f39980e5247e60c0dc669a239f"
+          }
+        },
+        {
+          "client_id": "673932666461-fvv2i979nbc5n796m9p3pr3vv8k9qbha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBYiZ1rffjUjUnqqa-b2uqfN863bM5hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673932666461-fvv2i979nbc5n796m9p3pr3vv8k9qbha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
